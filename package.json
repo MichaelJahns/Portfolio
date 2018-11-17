@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/MichaelJahns/Portfolio/issues"
   },
-  "homepage": "https://github.com/MichaelJahns/Portfolio#readme"
+  "homepage": "https://github.com/MichaelJahns/Portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
