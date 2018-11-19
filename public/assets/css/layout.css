@@ -27,6 +27,31 @@
                 padding-left: 0;
                 margin-left: 0;
             }
+/* Carousel Arrows */
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: 750px;
+    margin-left: 20px;
+    padding: 16px;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+  }
+  /* Item */
+  .item{
+      margin: 10px auto;
+  }  
+  /* Position the "next button" to the right */
+  .next {
+    margin-right: 50px;
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
 /* Header */
 
 #header {

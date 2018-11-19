@@ -79,6 +79,12 @@
         .item {
             margin-bottom: 15px;
         }
+        .slide{
+            display: none;
+        }
+        .active{
+            display: inline;
+        }
 
     /* Icons */
 
@@ -264,6 +270,12 @@
 
         .item {
             margin-bottom: 20px;
+        }
+        .slide{
+            display: none;
+        }
+        .active{
+            display: inline;
         }
 
     /* Header */
