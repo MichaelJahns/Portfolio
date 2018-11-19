@@ -27,6 +27,9 @@ PS: Not sure how to get that contact form working? Give formspree.io a try (it's
 
 Credits:
 
+	Building A Carousel: 
+		https://www.w3schools.com/howto/howto_js_slideshow.asp
+
 	Demo Images:
 		Felicia Simion (ineedchemicalx.deviantart.com)
 		Unsplash (unsplash.com)
